@@ -1,10 +1,12 @@
 // ==UserScript==
-// @name         Gemini Pin Navigator v6 — Header Anchor Edition
-// @namespace    https://github.com/userscripts/gemini-pin-navigator
+// @name         Gemini Pin Navigator
+// @namespace    https://github.com/IlkerGuness/gemini-pin-navigator
 // @version      6.0.0
-// @description  📍 Pin button anchored to the stable Gemini logo header — never fights the input area again. Full per-conversation pin system with color picker, labels, sidebar minimap, and smooth teleport.
-// @author       ZOGOLDER & CLAUDE
+// @description  📍 Pin button anchored to the stable Gemini logo header. Full per-conversation pin system with color picker, labels, sidebar minimap, and smooth teleport.
+// @author       ZOGOLDER & Claude & Gemini
 // @match        https://gemini.google.com/*
+// @updateURL    https://github.com/IlkerGuness/gemini-pin-navigator/raw/refs/heads/main/gemini-pin-navigator.user.js
+// @downloadURL  https://github.com/IlkerGuness/gemini-pin-navigator/raw/refs/heads/main/gemini-pin-navigator.user.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
