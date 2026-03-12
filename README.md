@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="last-Gemini_Generated_Image_ddozmnddozmnddoz-Photoroom.png" alt="Gemini Pin Navigator Logo" width="250">
+  <img src="Gemini_Pin_Navigator_Logo.png" alt="Gemini Pin Navigator Logo" width="250">
 </p>
 
 # 📍 Gemini Pin Navigator
