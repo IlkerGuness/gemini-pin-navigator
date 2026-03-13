@@ -43,4 +43,4 @@ Gemini deletes old messages from memory when you refresh. If your pins stop work
 * The script will "climb" your history to find and re-activate your saved pins.
 
 > **⚠️ Developer Note (Sync is in BETA):**
-> This feature is actively being improved. In very long chats, it might occasionally miss a pin due to Gemini's loading speed. More updates coming soon!
+> This feature is actively being improved. In half of the chats, it might occasionally miss a pin or select wrong answer due to Gemini's loading speed, also the save system. More updates coming soon!
