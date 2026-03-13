@@ -27,6 +27,10 @@ This project was developed with the coding assistance of **Claude** and **Gemini
 
 ## 🛠️ How to Use
 
+
+https://github.com/user-attachments/assets/d75b1de1-5845-4b12-93bc-c6d185a41519
+
+
 1. **Locate your target:** Scroll to the Gemini response you want to bookmark.
 2. **Drop the Pin:** Click the **"📍 PIN"** button next to the Gemini logo (top-left).
 3. **Customize:** Pick a color and give it a label (up to 10 characters).
